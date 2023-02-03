@@ -1,0 +1,5 @@
+img[src $= jpg]{
+    border: 10px solid red;
+    width: 100px;
+    height: 100px;
+}
